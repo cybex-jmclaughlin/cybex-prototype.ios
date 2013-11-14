@@ -1,2 +1,2 @@
-<%= name %>
+Example BLE Client
 ===================
